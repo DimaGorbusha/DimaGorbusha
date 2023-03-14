@@ -3,5 +3,5 @@
 <h3 align='center'>Front-end developer from Yekaterinburg🌏</h3>
 
 - 👨‍💻 I'm writing `React` and `Next.js` apps
-- ⚙️ I daily use `TailwindCSS`
+- ⚙️ I daily use `TailwindCSS`, `ESLint` and `StoryBook`
 - 🚀 Actively switching from `JavaScript` to `TypeScript`
