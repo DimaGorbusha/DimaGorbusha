@@ -5,3 +5,4 @@
 - 👨‍💻 I'm writing `React` and `Next.js` apps
 - ⚙️ I daily use `TailwindCSS`, `ESLint` and `StoryBook`
 - 🚀 Actively switching from `JavaScript` to `TypeScript`
+- 🏔️ Hobbies: mountaineering, photographing and design
